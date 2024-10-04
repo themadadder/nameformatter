@@ -1,0 +1,10 @@
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 4 - Name Formatter\NameFormatter\bin\Debug\NameFormatter.exe.config
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 4 - Name Formatter\NameFormatter\bin\Debug\NameFormatter.exe
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 4 - Name Formatter\NameFormatter\bin\Debug\NameFormatter.pdb
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 4 - Name Formatter\NameFormatter\obj\Debug\NameFormatter.csproj.AssemblyReference.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 4 - Name Formatter\NameFormatter\obj\Debug\NameFormatter.nameDeclare.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 4 - Name Formatter\NameFormatter\obj\Debug\NameFormatter.Properties.Resources.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 4 - Name Formatter\NameFormatter\obj\Debug\NameFormatter.csproj.GenerateResource.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 4 - Name Formatter\NameFormatter\obj\Debug\NameFormatter.csproj.CoreCompileInputs.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 4 - Name Formatter\NameFormatter\obj\Debug\NameFormatter.exe
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 4 - Name Formatter\NameFormatter\obj\Debug\NameFormatter.pdb
